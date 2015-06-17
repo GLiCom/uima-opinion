@@ -1,0 +1,1 @@
+classpath*:edu/upf/glicom/uima/ts/opinion-types.xml

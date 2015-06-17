@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+	<name>GLiCom-Opinion-Types</name>
+	<description>The type system contains types for the annotation of
+		specific opinion concepts.</description>
+	<version>2.1</version>
+	<vendor />
+	<types>
+		<typeDescription>
+			<name>edu.upf.glicom.uima.ts.opinion.Polar</name>
+			<description />
+			<supertypeName>uima.tcas.Annotation</supertypeName>
+			<features>
+				<featureDescription>
+					<name>polarity</name>
+					<description />
+					<rangeTypeName>uima.cas.String</rangeTypeName>
+				</featureDescription>
+			</features>
+		</typeDescription>
+		<typeDescription>
+			<name>edu.upf.glicom.uima.ts.opinion.QuantNeg</name>
+			<description />
+			<supertypeName>uima.tcas.Annotation</supertypeName>
+			<features>
+				<featureDescription>
+					<name>quant</name>
+					<description />
+					<rangeTypeName>uima.cas.String</rangeTypeName>
+				</featureDescription>
+				<featureDescription>
+					<name>neg</name>
+					<description />
+					<rangeTypeName>uima.cas.String</rangeTypeName>
+				</featureDescription>
+			</features>
+		</typeDescription>
+		<typeDescription>
+			<name>edu.upf.glicom.uima.ts.opinion.OpinionExpression</name>
+			<description />
+			<supertypeName>uima.tcas.Annotation</supertypeName>
+			<features>
+				<featureDescription>
+					<name>polarity</name>
+					<description />
+					<rangeTypeName>uima.cas.String</rangeTypeName>
+				</featureDescription>
+				<featureDescription>
+					<name>target</name>
+					<description />
+					<rangeTypeName>uima.tcas.Annotation</rangeTypeName>
+				</featureDescription>
+			</features>
+		</typeDescription>
+	</types>
+</typeSystemDescription>
