@@ -1,0 +1,227 @@
+<!--
+P=polarity
+P'=modified polarity
+
+if quant=H:		I=2
+if quant=M|no:	I=1
+if quant=L:		I=0.5
+
+if neg="no":	P'=IP
+if neg="yes":	P'=-I/P
+
+if Q"+Q'+P -> Q"(Q'(P)): much(more(expensive)), not(very(expensive)), very(little(expensive)), not(little(expensive)), not((expensive)at all)
+	if Q" & Q' neg="no":
+		if I"=2 & I'=0.5 (very slightly):	P"=P'/I"=P'I'/I"
+		else (much more expensive):	P"=I"P'=I"I'P
+	if Q" neg="yes" & Q' neg="no" (not very expensive):	P"=-I"/P'=-I"/(I'P)
+	if Q" neg="no" & Q' neg="yes" (very little expensive):	P"=I"P'=I"(-I'/P)
+	if Q" & Q' neg="yes":
+		if Q'=little|few (not little expensive):	P"=-I"/P'=-I"/(-I'/P)=PI"/I'
+		else (not expensive at all):	P"=P'=-I'/P
+-->
+<synonym>
+<token canonical="a bit" neg="no" quant="L">
+ <variant base="a bit"/>
+ </token>
+<token canonical="a few" neg="no" quant="L">
+ <variant base="a few"/>
+ </token>
+<token canonical="a little" neg="no" quant="L">
+ <variant base="a little"/>
+ </token>
+<token canonical="a lot" neg="no" quant="H">
+ <variant base="a lot"/>
+ </token>
+<token canonical="a number of" neg="no" quant="M">
+ <variant base="a number of"/>
+ </token>
+<token canonical="all" neg="no" quant="H">
+ <variant base="all"/>
+ </token>
+<token canonical="any" neg="no" quant="M">
+ <variant base="any"/>
+ </token>
+<token canonical="any and all" neg="no" quant="H">
+ <variant base="any and all"/>
+ </token>
+<token canonical="beaucoup" neg="no" quant="H">
+ <variant base="beaucoup"/>
+ </token>
+<token canonical="both" neg="no" quant="M">
+ <variant base="both"/>
+ </token>
+<token canonical="each" neg="no" quant="M">
+ <variant base="each"/>
+ </token>
+<token canonical="each and every" neg="no" quant="H">
+ <variant base="each and every"/>
+ </token>
+<token canonical="either" neg="no" quant="M">
+ <variant base="either"/>
+ </token>
+<token canonical="enough " neg="no" quant="M">
+ <variant base="enough"/>
+ </token>
+<token canonical="every" neg="no" quant="H">
+ <variant base="every"/>
+ </token>
+<token canonical="few" neg="yes" quant="L">
+ <variant base="few"/>
+ </token>
+<token canonical="fewer" neg="no" quant="L">
+ <variant base="fewer"/>
+ </token>
+<token canonical="fewest" neg="no" quant="L">
+ <variant base="fewest"/>
+ </token>
+<token canonical="a great many" neg="no" quant="H">
+ <variant base="a great many"/>
+ </token>
+<token canonical="least" neg="no" quant="L">
+ <variant base="least"/>
+ </token>
+<token canonical="less" neg="no" quant="L">
+ <variant base="less"/>
+ </token>
+<token canonical="little" neg="yes" quant="L">
+ <variant base="little"/>
+ </token>
+<token canonical="lots of" neg="no" quant="H">
+ <variant base="lots of"/>
+ </token>
+<token canonical="many" neg="no" quant="H">
+ <variant base="many"/>
+ </token>
+<token canonical="more" neg="no" quant="H">
+ <variant base="more"/>
+ </token>
+<token canonical="most" neg="no" quant="H">
+ <variant base="most"/>
+ </token>
+<token canonical="much" neg="no" quant="H">
+ <variant base="much"/>
+ </token>
+<token canonical="nary" neg="yes" quant="H">
+ <variant base="nary"/>
+ </token>
+<token canonical="neither" neg="yes" quant="M">
+ <variant base="neither"/>
+ </token>
+<token canonical="nil" neg="yes" quant="H">
+ <variant base="nil"/>
+ </token>
+<token canonical="none" neg="yes" quant="H">
+ <variant base="none"/>
+ </token>
+<token canonical="not even one" neg="yes" quant="H">
+ <variant base="not even one"/>
+ </token>
+<token canonical="overmuch" neg="no" quant="H">
+ <variant base="overmuch"/>
+ </token>
+<token canonical="plenty" neg="no" quant="H">
+ <variant base="plenty"/>
+ </token>
+<token canonical="quite a few" neg="no" quant="H">
+ <variant base="quite a few"/>
+ </token>
+<token canonical="quite a bit" neg="no" quant="H">
+ <variant base="quite a bit"/>
+ </token>
+<token canonical="quite a little" neg="no" quant="H">
+ <variant base="quite a little"/>
+ </token>
+<token canonical="quite a lot" neg="no" quant="H">
+ <variant base="quite a lot"/>
+ </token>
+<token canonical="quite" neg="no" quant="H">
+ <variant base="quite"/>
+ </token>
+<token canonical="several" neg="no" quant="M">
+ <variant base="several"/>
+ </token>
+<token canonical="sufficient" neg="no" quant="M">
+ <variant base="sufficient"/>
+ </token>
+<token canonical="too" neg="no" quant="H">
+ <variant base="too"/>
+ </token>
+<token canonical="too many" neg="no" quant="H">
+ <variant base="too many"/>
+ </token>
+<token canonical="too much" neg="no" quant="H">
+ <variant base="too much"/>
+ </token>
+<token canonical="umpteen" neg="no" quant="H">
+ <variant base="umpteen"/>
+ </token>
+<token canonical="various" neg="no" quant="M">
+ <variant base="various"/>
+ </token>
+<token canonical="whatever" neg="no" quant="M">
+ <variant base="whatever"/>
+ </token>
+<token canonical="whichever" neg="no" quant="M">
+ <variant base="whichever"/>
+ </token>
+<token canonical="some" neg="no" quant="M">
+ <variant base="some"/>
+ </token>
+ <token canonical="not" neg="yes" quant="no">
+ <variant base="not"/>
+ </token>
+ <token canonical="nor" neg="yes" quant="no">
+ <variant base="nor"/>
+ </token>
+ <token canonical="never" neg="yes" quant="H">
+ <variant base="never"/>
+ </token>
+ <token canonical="ever" neg="no" quant="M">
+ <variant base="ever"/>
+ </token>
+ <token canonical="n't" neg="yes" quant="no">
+ <variant base="n't"/>
+ </token>
+ <token canonical="no" neg="yes" quant="no">
+ <variant base="no"/>
+ </token>
+ <token canonical="non" neg="yes" quant="no">
+ <variant base="non"/>
+ </token>
+ <token canonical="nobody" neg="yes" quant="H">
+ <variant base="nobody"/>
+ </token>
+ <token canonical="nope" neg="yes" quant="no">
+ <variant base="nope"/>
+ </token>
+ <token canonical="nothing" neg="yes" quant="H">
+ <variant base="nothing"/>
+ </token>
+ <token canonical="nowhere" neg="yes" quant="H">
+ <variant base="nowhere"/>
+ </token>
+ <token canonical="without" neg="yes" quant="no">
+ <variant base="without"/>
+ </token>
+<token canonical="at all" neg="yes" quant="H">
+ <variant base="at all"/>
+ </token>
+ <token canonical="rather" neg="no" quant="H">
+ <variant base="rather"/>
+ </token>
+ <token canonical="somewhat" neg="no" quant="L">
+ <variant base="somewhat"/>
+ </token>
+ <token canonical="slightly" neg="no" quant="L">
+ <variant base="slightly"/>
+ </token>
+ <token canonical="fairly" neg="no" quant="M">
+ <variant base="fairly"/>
+ </token>
+ <token canonical="pretty" neg="no" quant="H">
+ <variant base="pretty"/>
+ </token>
+ <token canonical="really" neg="no" quant="H">
+ <variant base="really"/>
+ </token>
+</synonym>

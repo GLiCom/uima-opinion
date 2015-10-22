@@ -27,6 +27,7 @@ import org.apache.uima.resource.ExternalResourceDescription;
 import org.apache.uima.resource.ResourceInitializationException;
 import org.apache.uima.resource.metadata.TypePriorities;
 import org.apache.uima.util.ProcessTrace;
+import org.apache.uima.cas.CAS;
 import org.apache.uima.conceptMapper.ConceptMapper;
 import org.apache.uima.conceptMapper.support.dictionaryResource.CompiledDictionaryResource_impl;
 
@@ -54,7 +55,7 @@ public class OpinionExpressionAnnotator extends JCasAnnotator_ImplBase {
 	private String quantNegDictFile;
 
 	public static final String PARAM_DESTINATION_VIEW_NAME = "destinationViewName";
-	@ConfigurationParameter(name=PARAM_DESTINATION_VIEW_NAME, defaultValue="CASE_PUNC_VIEW")
+	@ConfigurationParameter(name=PARAM_DESTINATION_VIEW_NAME, defaultValue=CAS.NAME_DEFAULT_SOFA)
 	private String destinationViewName;
 		
 	private AnalysisEngine polMap;
@@ -210,7 +211,7 @@ public class OpinionExpressionAnnotator extends JCasAnnotator_ImplBase {
 		int neg_quant_words = 0;
 		int negations = 0;
 
-		HashMap seenPolars = new HashMap();
+		HashMap<String, Integer> seenPolars = new HashMap<String, Integer>();
 		for (Polar polar : selectCovered(Polar.class, opExp)) {
 			if (!seenPolars.containsKey(polar.getCoveredText())){
 				seenPolars.put(polar.getCoveredText(), 1);
