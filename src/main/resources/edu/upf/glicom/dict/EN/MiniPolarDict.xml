@@ -1,0 +1,1811 @@
+<synonym>
+<token canonical="obsession" polarity="-0.5">
+<variant base="obsession"/>
+</token>
+<token canonical="disappointed" polarity="-1">
+<variant base="disappointed"/>
+</token>
+<token canonical="threatening" polarity="-1">
+<variant base="threatening"/>
+</token>
+<token canonical="grimace" polarity="-0.5">
+<variant base="grimace"/>
+</token>
+<token canonical="festive" polarity="1">
+<variant base="festive"/>
+</token>
+<token canonical="succumb" polarity="-1">
+<variant base="succumb"/>
+</token>
+<token canonical="disturbed" polarity="-1">
+<variant base="disturbed"/>
+</token>
+<token canonical="glorious" polarity="1">
+<variant base="glorious"/>
+</token>
+<token canonical="valuable" polarity="1">
+<variant base="valuable"/>
+</token>
+<token canonical="attractive" polarity="1">
+<variant base="attractive"/>
+</token>
+<token canonical="nagging" polarity="-1">
+<variant base="nagging"/>
+</token>
+<token canonical="wickedness" polarity="-1">
+<variant base="wickedness"/>
+</token>
+<token canonical="devastating" polarity="-1">
+<variant base="devastating"/>
+</token>
+<token canonical="honesty" polarity="1">
+<variant base="honesty"/>
+</token>
+<token canonical="punishable" polarity="-0.5">
+<variant base="punishable"/>
+</token>
+<token canonical="terrorism" polarity="-0.5">
+<variant base="terrorism"/>
+</token>
+<token canonical="joy" polarity="1">
+<variant base="joy"/>
+</token>
+<token canonical="complaints" polarity="-1">
+<variant base="complaints"/>
+</token>
+<token canonical="apprehensive" polarity="-1">
+<variant base="apprehensive"/>
+</token>
+<token canonical="happy" polarity="1">
+<variant base="happy"/>
+</token>
+<token canonical="tragic" polarity="-1">
+<variant base="tragic"/>
+</token>
+<token canonical="I like" polarity="1">
+<variant base="I like"/>
+</token>
+<token canonical="devastate" polarity="-1">
+<variant base="devastate"/>
+</token>
+<token canonical="nastiness" polarity="-1">
+<variant base="nastiness"/>
+</token>
+<token canonical="enemy" polarity="-0.5">
+<variant base="enemy"/>
+</token>
+<token canonical="hopefulness" polarity="1">
+<variant base="hopefulness"/>
+</token>
+<token canonical="distrustful" polarity="-1">
+<variant base="distrustful"/>
+</token>
+<token canonical="bewilderment" polarity="-1">
+<variant base="bewilderment"/>
+</token>
+<token canonical="unhappy" polarity="-1">
+<variant base="unhappy"/>
+</token>
+<token canonical="dismaying" polarity="-1">
+<variant base="dismaying"/>
+</token>
+<token canonical="pessimistic" polarity="-1">
+<variant base="pessimistic"/>
+</token>
+<token canonical="despise" polarity="-1">
+<variant base="despise"/>
+</token>
+<token canonical="goodness" polarity="1">
+<variant base="goodness"/>
+</token>
+<token canonical="antagonism" polarity="-1">
+<variant base="antagonism"/>
+</token>
+<token canonical="adversary" polarity="-0.5">
+<variant base="adversary"/>
+</token>
+<token canonical="devastated" polarity="-1">
+<variant base="devastated"/>
+</token>
+<token canonical="low-risk" polarity="0.5">
+<variant base="low-risk"/>
+</token>
+<token canonical="bad" polarity="-1">
+<variant base="bad"/>
+</token>
+<token canonical="thankful" polarity="1">
+<variant base="thankful"/>
+</token>
+<token canonical="trusting" polarity="1">
+<variant base="trusting"/>
+</token>
+<token canonical="gratitude" polarity="1">
+<variant base="gratitude"/>
+</token>
+<token canonical="gratification" polarity="1">
+<variant base="gratification"/>
+</token>
+<token canonical="failure" polarity="-0.5">
+<variant base="failure"/>
+</token>
+<token canonical="secure" polarity="0.5">
+<variant base="secure"/>
+</token>
+<token canonical="appalling" polarity="-1">
+<variant base="appalling"/>
+</token>
+<token canonical="suicide" polarity="-0.5">
+<variant base="suicide"/>
+</token>
+<token canonical="envious" polarity="-1">
+<variant base="envious"/>
+</token>
+<token canonical="achievable" polarity="0.5">
+<variant base="achievable"/>
+</token>
+<token canonical="guilty" polarity="-0.5">
+<variant base="guilty"/>
+</token>
+<token canonical="lovely" polarity="1">
+<variant base="lovely"/>
+</token>
+<token canonical="fondly" polarity="1">
+<variant base="fondly"/>
+</token>
+<token canonical="moody" polarity="-1">
+<variant base="moody"/>
+</token>
+<token canonical="resentment" polarity="-1">
+<variant base="resentment"/>
+</token>
+<token canonical="good" polarity="0.5">
+<variant base="good"/>
+</token>
+<token canonical="luckiest" polarity="1">
+<variant base="luckiest"/>
+</token>
+<token canonical="deprive" polarity="-1">
+<variant base="deprive"/>
+</token>
+<token canonical="uncomfortable" polarity="-0.5">
+<variant base="uncomfortable"/>
+</token>
+<token canonical="mournful" polarity="-1">
+<variant base="mournful"/>
+</token>
+<token canonical="grievous" polarity="-1">
+<variant base="grievous"/>
+</token>
+<token canonical="sociable" polarity="1">
+<variant base="sociable"/>
+</token>
+<token canonical="ridiculous" polarity="-1">
+<variant base="ridiculous"/>
+</token>
+<token canonical="alarmed" polarity="-1">
+<variant base="alarmed"/>
+</token>
+<token canonical="pleased" polarity="1">
+<variant base="pleased"/>
+</token>
+<token canonical="stressful" polarity="-1">
+<variant base="stressful"/>
+</token>
+<token canonical="awful" polarity="-1">
+<variant base="awful"/>
+</token>
+<token canonical="devilish" polarity="-1">
+<variant base="devilish"/>
+</token>
+<token canonical="damnation" polarity="-1">
+<variant base="damnation"/>
+</token>
+<token canonical="confuse" polarity="-1">
+<variant base="confuse"/>
+</token>
+<token canonical="best" polarity="1">
+<variant base="best"/>
+</token>
+<token canonical="unsuccessful" polarity="-0.5">
+<variant base="unsuccessful"/>
+</token>
+<token canonical="agreeable" polarity="1">
+<variant base="agreeable"/>
+</token>
+<token canonical="inspirational" polarity="1">
+<variant base="inspirational"/>
+</token>
+<token canonical="forbidden" polarity="-1">
+<variant base="forbidden"/>
+</token>
+<token canonical="criticize" polarity="-1">
+<variant base="criticize"/>
+</token>
+<token canonical="frustrated" polarity="-1">
+<variant base="frustrated"/>
+</token>
+<token canonical="annoying" polarity="-1">
+<variant base="annoying"/>
+</token>
+<token canonical="strained" polarity="-0.5">
+<variant base="strained"/>
+</token>
+<token canonical="despised" polarity="-1">
+<variant base="despised"/>
+</token>
+<token canonical="misery" polarity="-1">
+<variant base="misery"/>
+</token>
+<token canonical="criticisms" polarity="-1">
+<variant base="criticisms"/>
+</token>
+<token canonical="mad" polarity="-1">
+<variant base="mad"/>
+</token>
+<token canonical="wise" polarity="1">
+<variant base="wise"/>
+</token>
+<token canonical="blameworthy" polarity="-1">
+<variant base="blameworthy"/>
+</token>
+<token canonical="handsome" polarity="1">
+<variant base="handsome"/>
+</token>
+<token canonical="happiness" polarity="1">
+<variant base="happiness"/>
+</token>
+<token canonical="dismayed" polarity="-1">
+<variant base="dismayed"/>
+</token>
+<token canonical="discouragement" polarity="-1">
+<variant base="discouragement"/>
+</token>
+<token canonical="sin" polarity="-1">
+<variant base="sin"/>
+</token>
+<token canonical="distressed" polarity="-1">
+<variant base="distressed"/>
+</token>
+<token canonical="suicidal" polarity="-0.5">
+<variant base="suicidal"/>
+</token>
+<token canonical="craziness" polarity="-1">
+<variant base="craziness"/>
+</token>
+<token canonical="horrific" polarity="-1">
+<variant base="horrific"/>
+</token>
+<token canonical="annoyed" polarity="-1">
+<variant base="annoyed"/>
+</token>
+<token canonical="pains" polarity="-1">
+<variant base="pains"/>
+</token>
+<token canonical="distressing" polarity="-1">
+<variant base="distressing"/>
+</token>
+<token canonical="optimistic" polarity="0.5">
+<variant base="optimistic"/>
+</token>
+<token canonical="uneasy" polarity="-1">
+<variant base="uneasy"/>
+</token>
+<token canonical="doubtless" polarity="1">
+<variant base="doubtless"/>
+</token>
+<token canonical="cruelty" polarity="-1">
+<variant base="cruelty"/>
+</token>
+<token canonical="weakness" polarity="-1">
+<variant base="weakness"/>
+</token>
+<token canonical="peaceful" polarity="1">
+<variant base="peaceful"/>
+</token>
+<token canonical="lower-priced" polarity="0.5">
+<variant base="lower-priced"/>
+</token>
+<token canonical="okay" polarity="1">
+<variant base="okay"/>
+</token>
+<token canonical="rejection" polarity="-1">
+<variant base="rejection"/>
+</token>
+<token canonical="worried" polarity="-1">
+<variant base="worried"/>
+</token>
+<token canonical="inadequate" polarity="-0.5">
+<variant base="inadequate"/>
+</token>
+<token canonical="horrify" polarity="-1">
+<variant base="horrify"/>
+</token>
+<token canonical="bewildered" polarity="-1">
+<variant base="bewildered"/>
+</token>
+<token canonical="skeptical" polarity="-1">
+<variant base="skeptical"/>
+</token>
+<token canonical="friendly" polarity="1">
+<variant base="friendly"/>
+</token>
+<token canonical="insecure" polarity="-0.5">
+<variant base="insecure"/>
+</token>
+<token canonical="beauteous" polarity="1">
+<variant base="beauteous"/>
+</token>
+<token canonical="overwhelming" polarity="-1">
+<variant base="overwhelming"/>
+</token>
+<token canonical="arrogant" polarity="-1">
+<variant base="arrogant"/>
+</token>
+<token canonical="truthful" polarity="1">
+<variant base="truthful"/>
+</token>
+<token canonical="hatred" polarity="-1">
+<variant base="hatred"/>
+</token>
+<token canonical="sweet" polarity="0.5">
+<variant base="sweet"/>
+</token>
+<token canonical="hostility" polarity="-1">
+<variant base="hostility"/>
+</token>
+<token canonical="wisdom" polarity="1">
+<variant base="wisdom"/>
+</token>
+<token canonical="glory" polarity="1">
+<variant base="glory"/>
+</token>
+<token canonical="disturbing" polarity="-1">
+<variant base="disturbing"/>
+</token>
+<token canonical="fatal" polarity="-0.5">
+<variant base="fatal"/>
+</token>
+<token canonical="ruinous" polarity="-0.5">
+<variant base="ruinous"/>
+</token>
+<token canonical="smarter" polarity="1">
+<variant base="smarter"/>
+</token>
+<token canonical="hopeful" polarity="1">
+<variant base="hopeful"/>
+</token>
+<token canonical="trustworthy" polarity="1">
+<variant base="trustworthy"/>
+</token>
+<token canonical="honorable" polarity="1">
+<variant base="honorable"/>
+</token>
+<token canonical="gloomy" polarity="-1">
+<variant base="gloomy"/>
+</token>
+<token canonical="enthuse" polarity="1">
+<variant base="enthuse"/>
+</token>
+<token canonical="troublemaker" polarity="-1">
+<variant base="troublemaker"/>
+</token>
+<token canonical="amazing" polarity="1">
+<variant base="amazing"/>
+</token>
+<token canonical="wonderful" polarity="1">
+<variant base="wonderful"/>
+</token>
+<token canonical="grind" polarity="-1">
+<variant base="grind"/>
+</token>
+<token canonical="regrettable" polarity="-1">
+<variant base="regrettable"/>
+</token>
+<token canonical="aggressor" polarity="-1">
+<variant base="aggressor"/>
+</token>
+<token canonical="shocking" polarity="-1">
+<variant base="shocking"/>
+</token>
+<token canonical="intelligent" polarity="1">
+<variant base="intelligent"/>
+</token>
+<token canonical="egotism" polarity="-1">
+<variant base="egotism"/>
+</token>
+<token canonical="aggravating" polarity="-1">
+<variant base="aggravating"/>
+</token>
+<token canonical="burdensome" polarity="-1">
+<variant base="burdensome"/>
+</token>
+<token canonical="celebrate" polarity="1">
+<variant base="celebrate"/>
+</token>
+<token canonical="dead" polarity="-0.5">
+<variant base="dead"/>
+</token>
+<token canonical="worsening" polarity="-1">
+<variant base="worsening"/>
+</token>
+<token canonical="worsen" polarity="-1">
+<variant base="worsen"/>
+</token>
+<token canonical="grieving" polarity="-1">
+<variant base="grieving"/>
+</token>
+<token canonical="sarcasm" polarity="-1">
+<variant base="sarcasm"/>
+</token>
+<token canonical="irrational" polarity="-1">
+<variant base="irrational"/>
+</token>
+<token canonical="molestation" polarity="-1">
+<variant base="molestation"/>
+</token>
+<token canonical="talented" polarity="1">
+<variant base="talented"/>
+</token>
+<token canonical="ecstasy" polarity="1">
+<variant base="ecstasy"/>
+</token>
+<token canonical="anxiety" polarity="-1">
+<variant base="anxiety"/>
+</token>
+<token canonical="sincere" polarity="1">
+<variant base="sincere"/>
+</token>
+<token canonical="deteriorate" polarity="-0.5">
+<variant base="deteriorate"/>
+</token>
+<token canonical="depression" polarity="-0.5">
+<variant base="depression"/>
+</token>
+<token canonical="admiration" polarity="1">
+<variant base="admiration"/>
+</token>
+<token canonical="ashamed" polarity="-1">
+<variant base="ashamed"/>
+</token>
+<token canonical="adverse" polarity="-0.5">
+<variant base="adverse"/>
+</token>
+<token canonical="horrible" polarity="-1">
+<variant base="horrible"/>
+</token>
+<token canonical="enjoyment" polarity="1">
+<variant base="enjoyment"/>
+</token>
+<token canonical="ineffectiveness" polarity="-0.5">
+<variant base="ineffectiveness"/>
+</token>
+<token canonical="thoughtfulness" polarity="1">
+<variant base="thoughtfulness"/>
+</token>
+<token canonical="weaken" polarity="-1">
+<variant base="weaken"/>
+</token>
+<token canonical="paranoid" polarity="-1">
+<variant base="paranoid"/>
+</token>
+<token canonical="successful" polarity="0.5">
+<variant base="successful"/>
+</token>
+<token canonical="excruciating" polarity="-1">
+<variant base="excruciating"/>
+</token>
+<token canonical="enthusiast" polarity="1">
+<variant base="enthusiast"/>
+</token>
+<token canonical="excellence" polarity="1">
+<variant base="excellence"/>
+</token>
+<token canonical="hopes" polarity="1">
+<variant base="hopes"/>
+</token>
+<token canonical="winners" polarity="1">
+<variant base="winners"/>
+</token>
+<token canonical="damning" polarity="-1">
+<variant base="damning"/>
+</token>
+<token canonical="evil" polarity="-1">
+<variant base="evil"/>
+</token>
+<token canonical="ineffectual" polarity="-0.5">
+<variant base="ineffectual"/>
+</token>
+<token canonical="selfishness" polarity="-1">
+<variant base="selfishness"/>
+</token>
+<token canonical="achievement" polarity="0.5">
+<variant base="achievement"/>
+</token>
+<token canonical="beautify" polarity="1">
+<variant base="beautify"/>
+</token>
+<token canonical="confrontation" polarity="-1">
+<variant base="confrontation"/>
+</token>
+<token canonical="irritate" polarity="-1">
+<variant base="irritate"/>
+</token>
+<token canonical="destructive" polarity="-1">
+<variant base="destructive"/>
+</token>
+<token canonical="bitterness" polarity="-1">
+<variant base="bitterness"/>
+</token>
+<token canonical="promising" polarity="1">
+<variant base="promising"/>
+</token>
+<token canonical="envy" polarity="-1">
+<variant base="envy"/>
+</token>
+<token canonical="decayed" polarity="-1">
+<variant base="decayed"/>
+</token>
+<token canonical="worries" polarity="-1">
+<variant base="worries"/>
+</token>
+<token canonical="unattractive" polarity="-1">
+<variant base="unattractive"/>
+</token>
+<token canonical="courage" polarity="1">
+<variant base="courage"/>
+</token>
+<token canonical="enthusiastic" polarity="1">
+<variant base="enthusiastic"/>
+</token>
+<token canonical="forbidding" polarity="-0.5">
+<variant base="forbidding"/>
+</token>
+<token canonical="terrifying" polarity="1">
+<variant base="terrifying"/>
+</token>
+<token canonical="aggravate" polarity="-1">
+<variant base="aggravate"/>
+</token>
+<token canonical="calming" polarity="1">
+<variant base="calming"/>
+</token>
+<token canonical="dullard" polarity="-1">
+<variant base="dullard"/>
+</token>
+<token canonical="benefit" polarity="0.5">
+<variant base="benefit"/>
+</token>
+<token canonical="courageous" polarity="1">
+<variant base="courageous"/>
+</token>
+<token canonical="assurance" polarity="0.5">
+<variant base="assurance"/>
+</token>
+<token canonical="magnificence" polarity="1">
+<variant base="magnificence"/>
+</token>
+<token canonical="convincing" polarity="1">
+<variant base="convincing"/>
+</token>
+<token canonical="favorite" polarity="1">
+<variant base="favorite"/>
+</token>
+<token canonical="kindness" polarity="1">
+<variant base="kindness"/>
+</token>
+<token canonical="popularity" polarity="0.5">
+<variant base="popularity"/>
+</token>
+<token canonical="outrages" polarity="-1">
+<variant base="outrages"/>
+</token>
+<token canonical="doubts" polarity="-1">
+<variant base="doubts"/>
+</token>
+<token canonical="enraged" polarity="-1">
+<variant base="enraged"/>
+</token>
+<token canonical="numb" polarity="-0.5">
+<variant base="numb"/>
+</token>
+<token canonical="smile" polarity="1">
+<variant base="smile"/>
+</token>
+<token canonical="irritable" polarity="-1">
+<variant base="irritable"/>
+</token>
+<token canonical="painful" polarity="-0.5">
+<variant base="painful"/>
+</token>
+<token canonical="reassurance" polarity="1">
+<variant base="reassurance"/>
+</token>
+<token canonical="lowly" polarity="-1">
+<variant base="lowly"/>
+</token>
+<token canonical="difficulty" polarity="-1">
+<variant base="difficulty"/>
+</token>
+<token canonical="complaining" polarity="-1">
+<variant base="complaining"/>
+</token>
+<token canonical="distrusting" polarity="-1">
+<variant base="distrusting"/>
+</token>
+<token canonical="delighted" polarity="1">
+<variant base="delighted"/>
+</token>
+<token canonical="wrongful" polarity="-0.5">
+<variant base="wrongful"/>
+</token>
+<token canonical="excellency" polarity="1">
+<variant base="excellency"/>
+</token>
+<token canonical="pleasing" polarity="1">
+<variant base="pleasing"/>
+</token>
+<token canonical="charming" polarity="1">
+<variant base="charming"/>
+</token>
+<token canonical="bitchy" polarity="-1">
+<variant base="bitchy"/>
+</token>
+<token canonical="worrying" polarity="-1">
+<variant base="worrying"/>
+</token>
+<token canonical="prickle" polarity="-1">
+<variant base="prickle"/>
+</token>
+<token canonical="mess" polarity="-1">
+<variant base="mess"/>
+</token>
+<token canonical="perfection" polarity="1">
+<variant base="perfection"/>
+</token>
+<token canonical="terrorize" polarity="-1">
+<variant base="terrorize"/>
+</token>
+<token canonical="benign" polarity="0.5">
+<variant base="benign"/>
+</token>
+<token canonical="unease" polarity="-1">
+<variant base="unease"/>
+</token>
+<token canonical="dignity" polarity="1">
+<variant base="dignity"/>
+</token>
+<token canonical="positive" polarity="0.5">
+<variant base="positive"/>
+</token>
+<token canonical="antagonist" polarity="-0.5">
+<variant base="antagonist"/>
+</token>
+<token canonical="suffering" polarity="-1">
+<variant base="suffering"/>
+</token>
+<token canonical="prejudice" polarity="-1">
+<variant base="prejudice"/>
+</token>
+<token canonical="vain" polarity="-1">
+<variant base="vain"/>
+</token>
+<token canonical="grievance" polarity="-1">
+<variant base="grievance"/>
+</token>
+<token canonical="miserly" polarity="-1">
+<variant base="miserly"/>
+</token>
+<token canonical="tenderness" polarity="0.5">
+<variant base="tenderness"/>
+</token>
+<token canonical="advantageous" polarity="1">
+<variant base="advantageous"/>
+</token>
+<token canonical="annoyance" polarity="-1">
+<variant base="annoyance"/>
+</token>
+<token canonical="shameful" polarity="-1">
+<variant base="shameful"/>
+</token>
+<token canonical="irritating" polarity="-1">
+<variant base="irritating"/>
+</token>
+<token canonical="confrontational" polarity="-0.5">
+<variant base="confrontational"/>
+</token>
+<token canonical="enjoyable" polarity="1">
+<variant base="enjoyable"/>
+</token>
+<token canonical="satisfactory" polarity="1">
+<variant base="satisfactory"/>
+</token>
+<token canonical="humiliating" polarity="-1">
+<variant base="humiliating"/>
+</token>
+<token canonical="greedy" polarity="-1">
+<variant base="greedy"/>
+</token>
+<token canonical="cynical" polarity="-1">
+<variant base="cynical"/>
+</token>
+<token canonical="pain" polarity="-0.5">
+<variant base="pain"/>
+</token>
+<token canonical="awesomeness" polarity="1">
+<variant base="awesomeness"/>
+</token>
+<token canonical="supportive" polarity="1">
+<variant base="supportive"/>
+</token>
+<token canonical="enemies" polarity="-0.5">
+<variant base="enemies"/>
+</token>
+<token canonical="triumphant" polarity="1">
+<variant base="triumphant"/>
+</token>
+<token canonical="frustrating" polarity="-1">
+<variant base="frustrating"/>
+</token>
+<token canonical="impressiveness" polarity="1">
+<variant base="impressiveness"/>
+</token>
+<token canonical="rebellious" polarity="-1">
+<variant base="rebellious"/>
+</token>
+<token canonical="failures" polarity="-0.5">
+<variant base="failures"/>
+</token>
+<token canonical="brighten" polarity="0.5">
+<variant base="brighten"/>
+</token>
+<token canonical="delightful" polarity="1">
+<variant base="delightful"/>
+</token>
+<token canonical="restlessness" polarity="-0.5">
+<variant base="restlessness"/>
+</token>
+<token canonical="efficient" polarity="0.5">
+<variant base="efficient"/>
+</token>
+<token canonical="victorious" polarity="0.5">
+<variant base="victorious"/>
+</token>
+<token canonical="bewildering" polarity="-1">
+<variant base="bewildering"/>
+</token>
+<token canonical="nurture" polarity="1">
+<variant base="nurture"/>
+</token>
+<token canonical="despairing" polarity="-1">
+<variant base="despairing"/>
+</token>
+<token canonical="disappointment" polarity="-1">
+<variant base="disappointment"/>
+</token>
+<token canonical="optimism" polarity="1">
+<variant base="optimism"/>
+</token>
+<token canonical="cheerful" polarity="1">
+<variant base="cheerful"/>
+</token>
+<token canonical="victimize" polarity="-1">
+<variant base="victimize"/>
+</token>
+<token canonical="shaky" polarity="-0.5">
+<variant base="shaky"/>
+</token>
+<token canonical="adorable" polarity="1">
+<variant base="adorable"/>
+</token>
+<token canonical="painless" polarity="0.5">
+<variant base="painless"/>
+</token>
+<token canonical="humiliation" polarity="-1">
+<variant base="humiliation"/>
+</token>
+<token canonical="heroic" polarity="1">
+<variant base="heroic"/>
+</token>
+<token canonical="longing" polarity="-1">
+<variant base="longing"/>
+</token>
+<token canonical="passionate" polarity="1">
+<variant base="passionate"/>
+</token>
+<token canonical="intelligible" polarity="1">
+<variant base="intelligible"/>
+</token>
+<token canonical="deprived" polarity="-1">
+<variant base="deprived"/>
+</token>
+<token canonical="ignorant" polarity="-1">
+<variant base="ignorant"/>
+</token>
+<token canonical="tragedy" polarity="-0.5">
+<variant base="tragedy"/>
+</token>
+<token canonical="laughable" polarity="-1">
+<variant base="laughable"/>
+</token>
+<token canonical="frustration" polarity="-1">
+<variant base="frustration"/>
+</token>
+<token canonical="messy" polarity="-0.5">
+<variant base="messy"/>
+</token>
+<token canonical="freedom" polarity="0.5">
+<variant base="freedom"/>
+</token>
+<token canonical="better" polarity="0.5">
+<variant base="better"/>
+</token>
+<token canonical="profitable" polarity="0.5">
+<variant base="profitable"/>
+</token>
+<token canonical="exhaustion" polarity="-0.5">
+<variant base="exhaustion"/>
+</token>
+<token canonical="forgiveness" polarity="1">
+<variant base="forgiveness"/>
+</token>
+<token canonical="destroyer" polarity="-1">
+<variant base="destroyer"/>
+</token>
+<token canonical="destroy" polarity="-1">
+<variant base="destroy"/>
+</token>
+<token canonical="satisfy" polarity="0.5">
+<variant base="satisfy"/>
+</token>
+<token canonical="brightness" polarity="0.5">
+<variant base="brightness"/>
+</token>
+<token canonical="appalled" polarity="-1">
+<variant base="appalled"/>
+</token>
+<token canonical="adoring" polarity="1">
+<variant base="adoring"/>
+</token>
+<token canonical="benefits" polarity="0.5">
+<variant base="benefits"/>
+</token>
+<token canonical="purposeful" polarity="1">
+<variant base="purposeful"/>
+</token>
+<token canonical="blameless" polarity="1">
+<variant base="blameless"/>
+</token>
+<token canonical="adore" polarity="1">
+<variant base="adore"/>
+</token>
+<token canonical="interesting" polarity="1">
+<variant base="interesting"/>
+</token>
+<token canonical="hateful" polarity="-1">
+<variant base="hateful"/>
+</token>
+<token canonical="depressing" polarity="-1">
+<variant base="depressing"/>
+</token>
+<token canonical="antagonize" polarity="-1">
+<variant base="antagonize"/>
+</token>
+<token canonical="uneasiness" polarity="-1">
+<variant base="uneasiness"/>
+</token>
+<token canonical="ineffective" polarity="-0.5">
+<variant base="ineffective"/>
+</token>
+<token canonical="miseries" polarity="-1">
+<variant base="miseries"/>
+</token>
+<token canonical="heroine" polarity="1">
+<variant base="heroine"/>
+</token>
+<token canonical="impressive" polarity="1">
+<variant base="impressive"/>
+</token>
+<token canonical="considerate" polarity="1">
+<variant base="considerate"/>
+</token>
+<token canonical="exciting" polarity="1">
+<variant base="exciting"/>
+</token>
+<token canonical="admiring" polarity="1">
+<variant base="admiring"/>
+</token>
+<token canonical="offending" polarity="-1">
+<variant base="offending"/>
+</token>
+<token canonical="abusive" polarity="-1">
+<variant base="abusive"/>
+</token>
+<token canonical="suffer" polarity="-0.5">
+<variant base="suffer"/>
+</token>
+<token canonical="accomplishments" polarity="0.5">
+<variant base="accomplishments"/>
+</token>
+<token canonical="admirer" polarity="1">
+<variant base="admirer"/>
+</token>
+<token canonical="faithful" polarity="1">
+<variant base="faithful"/>
+</token>
+<token canonical="fatigue" polarity="-0.5">
+<variant base="fatigue"/>
+</token>
+<token canonical="shake" polarity="-0.5">
+<variant base="shake"/>
+</token>
+<token canonical="cheater" polarity="-1">
+<variant base="cheater"/>
+</token>
+<token canonical="disgusted" polarity="-1">
+<variant base="disgusted"/>
+</token>
+<token canonical="terrible" polarity="-1">
+<variant base="terrible"/>
+</token>
+<token canonical="lucky" polarity="1">
+<variant base="lucky"/>
+</token>
+<token canonical="sorry" polarity="-1">
+<variant base="sorry"/>
+</token>
+<token canonical="casualty" polarity="-0.5">
+<variant base="casualty"/>
+</token>
+<token canonical="adored" polarity="1">
+<variant base="adored"/>
+</token>
+<token canonical="insulted" polarity="-1">
+<variant base="insulted"/>
+</token>
+<token canonical="remorseless" polarity="-1">
+<variant base="remorseless"/>
+</token>
+<token canonical="jolly" polarity="1">
+<variant base="jolly"/>
+</token>
+<token canonical="acceptable" polarity="0.5">
+<variant base="acceptable"/>
+</token>
+<token canonical="anxious" polarity="-1">
+<variant base="anxious"/>
+</token>
+<token canonical="dazed" polarity="-1">
+<variant base="dazed"/>
+</token>
+<token canonical="nasty" polarity="-1">
+<variant base="nasty"/>
+</token>
+<token canonical="agony" polarity="-1">
+<variant base="agony"/>
+</token>
+<token canonical="sorrowful" polarity="-1">
+<variant base="sorrowful"/>
+</token>
+<token canonical="challenge" polarity="-0.5">
+<variant base="challenge"/>
+</token>
+<token canonical="lost" polarity="-0.5">
+<variant base="lost"/>
+</token>
+<token canonical="triumphal" polarity="1">
+<variant base="triumphal"/>
+</token>
+<token canonical="hostilities" polarity="-0.5">
+<variant base="hostilities"/>
+</token>
+<token canonical="praiseworthy" polarity="1">
+<variant base="praiseworthy"/>
+</token>
+<token canonical="spiteful" polarity="-1">
+<variant base="spiteful"/>
+</token>
+<token canonical="pleasant" polarity="0.5">
+<variant base="pleasant"/>
+</token>
+<token canonical="aggravation" polarity="-1">
+<variant base="aggravation"/>
+</token>
+<token canonical="hell" polarity="-1">
+<variant base="hell"/>
+</token>
+<token canonical="frustrate" polarity="-1">
+<variant base="frustrate"/>
+</token>
+<token canonical="fears" polarity="-1">
+<variant base="fears"/>
+</token>
+<token canonical="apprehensions" polarity="-1">
+<variant base="apprehensions"/>
+</token>
+<token canonical="blessing" polarity="1">
+<variant base="blessing"/>
+</token>
+<token canonical="stupid" polarity="-1">
+<variant base="stupid"/>
+</token>
+<token canonical="agitation" polarity="-1">
+<variant base="agitation"/>
+</token>
+<token canonical="neglected" polarity="-1">
+<variant base="neglected"/>
+</token>
+<token canonical="petty" polarity="-1">
+<variant base="petty"/>
+</token>
+<token canonical="revengeful" polarity="-1">
+<variant base="revengeful"/>
+</token>
+<token canonical="degradation" polarity="-1">
+<variant base="degradation"/>
+</token>
+<token canonical="dislike" polarity="-1">
+<variant base="dislike"/>
+</token>
+<token canonical="calmness" polarity="0.5">
+<variant base="calmness"/>
+</token>
+<token canonical="hurtful" polarity="-0.5">
+<variant base="hurtful"/>
+</token>
+<token canonical="dangerous" polarity="-0.5">
+<variant base="dangerous"/>
+</token>
+<token canonical="startling" polarity="-1">
+<variant base="startling"/>
+</token>
+<token canonical="isolation" polarity="-0.5">
+<variant base="isolation"/>
+</token>
+<token canonical="nurturing" polarity="1">
+<variant base="nurturing"/>
+</token>
+<token canonical="nervousness" polarity="-1">
+<variant base="nervousness"/>
+</token>
+<token canonical="gentle" polarity="0.5">
+<variant base="gentle"/>
+</token>
+<token canonical="bravery" polarity="1">
+<variant base="bravery"/>
+</token>
+<token canonical="turmoil" polarity="-1">
+<variant base="turmoil"/>
+</token>
+<token canonical="jerk" polarity="-1">
+<variant base="jerk"/>
+</token>
+<token canonical="freakish" polarity="-1">
+<variant base="freakish"/>
+</token>
+<token canonical="smiling" polarity="1">
+<variant base="smiling"/>
+</token>
+<token canonical="paradise" polarity="1">
+<variant base="paradise"/>
+</token>
+<token canonical="murderous" polarity="-0.5">
+<variant base="murderous"/>
+</token>
+<token canonical="aggressiveness" polarity="-1">
+<variant base="aggressiveness"/>
+</token>
+<token canonical="brilliance" polarity="0.5">
+<variant base="brilliance"/>
+</token>
+<token canonical="trickery" polarity="-1">
+<variant base="trickery"/>
+</token>
+<token canonical="afraid" polarity="-1">
+<variant base="afraid"/>
+</token>
+<token canonical="panicky" polarity="-1">
+<variant base="panicky"/>
+</token>
+<token canonical="prejudicial" polarity="-1">
+<variant base="prejudicial"/>
+</token>
+<token canonical="discouraging" polarity="-1">
+<variant base="discouraging"/>
+</token>
+<token canonical="energetic" polarity="0.5">
+<variant base="energetic"/>
+</token>
+<token canonical="lousy" polarity="-1">
+<variant base="lousy"/>
+</token>
+<token canonical="complaint" polarity="-1">
+<variant base="complaint"/>
+</token>
+<token canonical="hate" polarity="-1">
+<variant base="hate"/>
+</token>
+<token canonical="harassment" polarity="-1">
+<variant base="harassment"/>
+</token>
+<token canonical="celebrated" polarity="1">
+<variant base="celebrated"/>
+</token>
+<token canonical="ridicule" polarity="-1">
+<variant base="ridicule"/>
+</token>
+<token canonical="emotional" polarity="-1">
+<variant base="emotional"/>
+</token>
+<token canonical="intimidation" polarity="-0.5">
+<variant base="intimidation"/>
+</token>
+<token canonical="troublesome" polarity="-1">
+<variant base="troublesome"/>
+</token>
+<token canonical="inferior" polarity="-1">
+<variant base="inferior"/>
+</token>
+<token canonical="grateful" polarity="1">
+<variant base="grateful"/>
+</token>
+<token canonical="frightening" polarity="-1">
+<variant base="frightening"/>
+</token>
+<token canonical="grievances" polarity="-1">
+<variant base="grievances"/>
+</token>
+<token canonical="inspiring" polarity="1">
+<variant base="inspiring"/>
+</token>
+<token canonical="troubling" polarity="-1">
+<variant base="troubling"/>
+</token>
+<token canonical="boring" polarity="-1">
+<variant base="boring"/>
+</token>
+<token canonical="blame" polarity="-1">
+<variant base="blame"/>
+</token>
+<token canonical="cry" polarity="-1">
+<variant base="cry"/>
+</token>
+<token canonical="discourage" polarity="-1">
+<variant base="discourage"/>
+</token>
+<token canonical="abuses" polarity="-0.5">
+<variant base="abuses"/>
+</token>
+<token canonical="loneliness" polarity="-1">
+<variant base="loneliness"/>
+</token>
+<token canonical="competitive" polarity="0.5">
+<variant base="competitive"/>
+</token>
+<token canonical="ugly" polarity="-1">
+<variant base="ugly"/>
+</token>
+<token canonical="lonely" polarity="-1">
+<variant base="lonely"/>
+</token>
+<token canonical="comfortable" polarity="0.5">
+<variant base="comfortable"/>
+</token>
+<token canonical="truthfulness" polarity="1">
+<variant base="truthfulness"/>
+</token>
+<token canonical="avoidance" polarity="-0.5">
+<variant base="avoidance"/>
+</token>
+<token canonical="grating" polarity="-1">
+<variant base="grating"/>
+</token>
+<token canonical="outrage" polarity="-1">
+<variant base="outrage"/>
+</token>
+<token canonical="insecurity" polarity="-1">
+<variant base="insecurity"/>
+</token>
+<token canonical="indifference" polarity="-1">
+<variant base="indifference"/>
+</token>
+<token canonical="frighten" polarity="-1">
+<variant base="frighten"/>
+</token>
+<token canonical="boredom" polarity="-1">
+<variant base="boredom"/>
+</token>
+<token canonical="outraged" polarity="-1">
+<variant base="outraged"/>
+</token>
+<token canonical="harmony" polarity="1">
+<variant base="harmony"/>
+</token>
+<token canonical="cherished" polarity="1">
+<variant base="cherished"/>
+</token>
+<token canonical="defensive" polarity="-0.5">
+<variant base="defensive"/>
+</token>
+<token canonical="unhappiness" polarity="-1">
+<variant base="unhappiness"/>
+</token>
+<token canonical="horror" polarity="-1">
+<variant base="horror"/>
+</token>
+<token canonical="repressive" polarity="-0.5">
+<variant base="repressive"/>
+</token>
+<token canonical="vigorous" polarity="0.5">
+<variant base="vigorous"/>
+</token>
+<token canonical="sarcastic" polarity="-1">
+<variant base="sarcastic"/>
+</token>
+<token canonical="trustworthiness" polarity="1">
+<variant base="trustworthiness"/>
+</token>
+<token canonical="dying" polarity="-0.5">
+<variant base="dying"/>
+</token>
+<token canonical="cruelties" polarity="-1">
+<variant base="cruelties"/>
+</token>
+<token canonical="interrupt" polarity="-0.5">
+<variant base="interrupt"/>
+</token>
+<token canonical="gratify" polarity="1">
+<variant base="gratify"/>
+</token>
+<token canonical="insulting" polarity="-1">
+<variant base="insulting"/>
+</token>
+<token canonical="gratifying" polarity="1">
+<variant base="gratifying"/>
+</token>
+<token canonical="craze" polarity="-1">
+<variant base="craze"/>
+</token>
+<token canonical="love" polarity="1">
+<variant base="love"/>
+</token>
+<token canonical="usefulness" polarity="0.5">
+<variant base="usefulness"/>
+</token>
+<token canonical="egotistical" polarity="-1">
+<variant base="egotistical"/>
+</token>
+<token canonical="merriment" polarity="1">
+<variant base="merriment"/>
+</token>
+<token canonical="powerful" polarity="0.5">
+<variant base="powerful"/>
+</token>
+<token canonical="forgiving" polarity="1">
+<variant base="forgiving"/>
+</token>
+<token canonical="paranoia" polarity="-1">
+<variant base="paranoia"/>
+</token>
+<token canonical="shameless" polarity="-1">
+<variant base="shameless"/>
+</token>
+<token canonical="worrisome" polarity="-1">
+<variant base="worrisome"/>
+</token>
+<token canonical="apprehension" polarity="-1">
+<variant base="apprehension"/>
+</token>
+<token canonical="indifferent" polarity="-1">
+<variant base="indifferent"/>
+</token>
+<token canonical="sad" polarity="-1">
+<variant base="sad"/>
+</token>
+<token canonical="worthless" polarity="-1">
+<variant base="worthless"/>
+</token>
+<token canonical="difficulties" polarity="-0.5">
+<variant base="difficulties"/>
+</token>
+<token canonical="pessimism" polarity="-1">
+<variant base="pessimism"/>
+</token>
+<token canonical="celebration" polarity="1">
+<variant base="celebration"/>
+</token>
+<token canonical="destruction" polarity="-0.5">
+<variant base="destruction"/>
+</token>
+<token canonical="confusing" polarity="-1">
+<variant base="confusing"/>
+</token>
+<token canonical="easygoing" polarity="1">
+<variant base="easygoing"/>
+</token>
+<token canonical="uncertain" polarity="-0.5">
+<variant base="uncertain"/>
+</token>
+<token canonical="bastard" polarity="-1">
+<variant base="bastard"/>
+</token>
+<token canonical="sob" polarity="-1">
+<variant base="sob"/>
+</token>
+<token canonical="lame" polarity="-0.5">
+<variant base="lame"/>
+</token>
+<token canonical="frightful" polarity="-1">
+<variant base="frightful"/>
+</token>
+<token canonical="irritation" polarity="-1">
+<variant base="irritation"/>
+</token>
+<token canonical="depressed" polarity="-1">
+<variant base="depressed"/>
+</token>
+<token canonical="emptiness" polarity="-1">
+<variant base="emptiness"/>
+</token>
+<token canonical="improvement" polarity="0.5">
+<variant base="improvement"/>
+</token>
+<token canonical="perfect" polarity="1">
+<variant base="perfect"/>
+</token>
+<token canonical="strange" polarity="-1">
+<variant base="strange"/>
+</token>
+<token canonical="upsetting" polarity="-1">
+<variant base="upsetting"/>
+</token>
+<token canonical="grand" polarity="0.5">
+<variant base="grand"/>
+</token>
+<token canonical="jealousy" polarity="-1">
+<variant base="jealousy"/>
+</token>
+<token canonical="flawless" polarity="1">
+<variant base="flawless"/>
+</token>
+<token canonical="bothersome" polarity="-1">
+<variant base="bothersome"/>
+</token>
+<token canonical="poisonous" polarity="-0.5">
+<variant base="poisonous"/>
+</token>
+<token canonical="resentful" polarity="-1">
+<variant base="resentful"/>
+</token>
+<token canonical="pity" polarity="-1">
+<variant base="pity"/>
+</token>
+<token canonical="trouble" polarity="-0.5">
+<variant base="trouble"/>
+</token>
+<token canonical="crazy" polarity="-1">
+<variant base="crazy"/>
+</token>
+<token canonical="stubbornness" polarity="-1">
+<variant base="stubbornness"/>
+</token>
+<token canonical="carelessness" polarity="-1">
+<variant base="carelessness"/>
+</token>
+<token canonical="neat" polarity="0.5">
+<variant base="neat"/>
+</token>
+<token canonical="advantages" polarity="0.5">
+<variant base="advantages"/>
+</token>
+<token canonical="liars" polarity="-1">
+<variant base="liars"/>
+</token>
+<token canonical="beauty" polarity="1">
+<variant base="beauty"/>
+</token>
+<token canonical="challenging" polarity="-0.5">
+<variant base="challenging"/>
+</token>
+<token canonical="dangerousness" polarity="-1">
+<variant base="dangerousness"/>
+</token>
+<token canonical="prickles" polarity="-1">
+<variant base="prickles"/>
+</token>
+<token canonical="obsessive" polarity="-1">
+<variant base="obsessive"/>
+</token>
+<token canonical="energize" polarity="0.5">
+<variant base="energize"/>
+</token>
+<token canonical="petrified" polarity="-1">
+<variant base="petrified"/>
+</token>
+<token canonical="reluctance" polarity="-1">
+<variant base="reluctance"/>
+</token>
+<token canonical="failing" polarity="-1">
+<variant base="failing"/>
+</token>
+<token canonical="deterioration" polarity="-0.5">
+<variant base="deterioration"/>
+</token>
+<token canonical="hostile" polarity="-0.5">
+<variant base="hostile"/>
+</token>
+<token canonical="encourage" polarity="0.5">
+<variant base="encourage"/>
+</token>
+<token canonical="worrier" polarity="-1">
+<variant base="worrier"/>
+</token>
+<token canonical="fear" polarity="-1">
+<variant base="fear"/>
+</token>
+<token canonical="confused" polarity="-1">
+<variant base="confused"/>
+</token>
+<token canonical="horrifying" polarity="-1">
+<variant base="horrifying"/>
+</token>
+<token canonical="reluctant" polarity="-0.5">
+<variant base="reluctant"/>
+</token>
+<token canonical="startle" polarity="-1">
+<variant base="startle"/>
+</token>
+<token canonical="unpleasant" polarity="-1">
+<variant base="unpleasant"/>
+</token>
+<token canonical="humiliate" polarity="-1">
+<variant base="humiliate"/>
+</token>
+<token canonical="seriousness" polarity="-1">
+<variant base="seriousness"/>
+</token>
+<token canonical="hazy" polarity="-0.5">
+<variant base="hazy"/>
+</token>
+<token canonical="admire" polarity="1">
+<variant base="admire"/>
+</token>
+<token canonical="satisfying" polarity="0.5">
+<variant base="satisfying"/>
+</token>
+<token canonical="achieve" polarity="0.5">
+<variant base="achieve"/>
+</token>
+<token canonical="miserable" polarity="-1">
+<variant base="miserable"/>
+</token>
+<token canonical="friendliness" polarity="1">
+<variant base="friendliness"/>
+</token>
+<token canonical="ecstasies" polarity="1">
+<variant base="ecstasies"/>
+</token>
+<token canonical="vanity" polarity="-0.5">
+<variant base="vanity"/>
+</token>
+<token canonical="damned" polarity="-1">
+<variant base="damned"/>
+</token>
+<token canonical="excitement" polarity="1">
+<variant base="excitement"/>
+</token>
+<token canonical="powerless" polarity="-0.5">
+<variant base="powerless"/>
+</token>
+<token canonical="alarming" polarity="-1">
+<variant base="alarming"/>
+</token>
+<token canonical="scared" polarity="-1">
+<variant base="scared"/>
+</token>
+<token canonical="lively" polarity="1">
+<variant base="lively"/>
+</token>
+<token canonical="killer" polarity="-0.5">
+<variant base="killer"/>
+</token>
+<token canonical="aggressive" polarity="-1">
+<variant base="aggressive"/>
+</token>
+<token canonical="favorable" polarity="1">
+<variant base="favorable"/>
+</token>
+<token canonical="sickening" polarity="-1">
+<variant base="sickening"/>
+</token>
+<token canonical="protest" polarity="-1">
+<variant base="protest"/>
+</token>
+<token canonical="worthwhile" polarity="1">
+<variant base="worthwhile"/>
+</token>
+<token canonical="enrage" polarity="-1">
+<variant base="enrage"/>
+</token>
+<token canonical="criticism" polarity="-1">
+<variant base="criticism"/>
+</token>
+<token canonical="perverted" polarity="-1">
+<variant base="perverted"/>
+</token>
+<token canonical="liking" polarity="1">
+<variant base="liking"/>
+</token>
+<token canonical="outrageous" polarity="-1">
+<variant base="outrageous"/>
+</token>
+<token canonical="abandoned" polarity="-0.5">
+<variant base="abandoned"/>
+</token>
+<token canonical="tease" polarity="-0.5">
+<variant base="tease"/>
+</token>
+<token canonical="bold" polarity="1">
+<variant base="bold"/>
+</token>
+<token canonical="ugh" polarity="-1">
+<variant base="ugh"/>
+</token>
+<token canonical="irritated" polarity="-1">
+<variant base="irritated"/>
+</token>
+<token canonical="encouraging" polarity="1">
+<variant base="encouraging"/>
+</token>
+<token canonical="antagonistic" polarity="-1">
+<variant base="antagonistic"/>
+</token>
+<token canonical="admirable" polarity="1">
+<variant base="admirable"/>
+</token>
+<token canonical="mourner" polarity="-1">
+<variant base="mourner"/>
+</token>
+<token canonical="degrading" polarity="-1">
+<variant base="degrading"/>
+</token>
+<token canonical="magnificent" polarity="1">
+<variant base="magnificent"/>
+</token>
+<token canonical="glad" polarity="1">
+<variant base="glad"/>
+</token>
+<token canonical="helplessness" polarity="-0.5">
+<variant base="helplessness"/>
+</token>
+<token canonical="ecstatic" polarity="1">
+<variant base="ecstatic"/>
+</token>
+<token canonical="disagreeable" polarity="-1">
+<variant base="disagreeable"/>
+</token>
+<token canonical="welcome" polarity="1">
+<variant base="welcome"/>
+</token>
+<token canonical="shyness" polarity="-1">
+<variant base="shyness"/>
+</token>
+<token canonical="achievements" polarity="0.5">
+<variant base="achievements"/>
+</token>
+<token canonical="heavenly" polarity="1">
+<variant base="heavenly"/>
+</token>
+<token canonical="hopelessness" polarity="-1">
+<variant base="hopelessness"/>
+</token>
+<token canonical="winnable" polarity="1">
+<variant base="winnable"/>
+</token>
+<token canonical="advanced" polarity="0.5">
+<variant base="advanced"/>
+</token>
+<token canonical="intimidating" polarity="-1">
+<variant base="intimidating"/>
+</token>
+<token canonical="disappointing" polarity="-1">
+<variant base="disappointing"/>
+</token>
+<token canonical="success" polarity="0.5">
+<variant base="success"/>
+</token>
+<token canonical="daring" polarity="1">
+<variant base="daring"/>
+</token>
+<token canonical="deteriorating" polarity="-0.5">
+<variant base="deteriorating"/>
+</token>
+<token canonical="smartest" polarity="1">
+<variant base="smartest"/>
+</token>
+<token canonical="faithless" polarity="-1">
+<variant base="faithless"/>
+</token>
+<token canonical="delight" polarity="1">
+<variant base="delight"/>
+</token>
+<token canonical="sinister" polarity="-1">
+<variant base="sinister"/>
+</token>
+<token canonical="fight" polarity="-0.5">
+<variant base="fight"/>
+</token>
+<token canonical="inhibition" polarity="-0.5">
+<variant base="inhibition"/>
+</token>
+<token canonical="worry" polarity="-1">
+<variant base="worry"/>
+</token>
+<token canonical="temper" polarity="-0.5">
+<variant base="temper"/>
+</token>
+<token canonical="irritant" polarity="-0.5">
+<variant base="irritant"/>
+</token>
+<token canonical="peacekeepers" polarity="0.5">
+<variant base="peacekeepers"/>
+</token>
+<token canonical="motivated" polarity="1">
+<variant base="motivated"/>
+</token>
+<token canonical="beautiful" polarity="1">
+<variant base="beautiful"/>
+</token>
+<token canonical="humorous" polarity="1">
+<variant base="humorous"/>
+</token>
+<token canonical="angry" polarity="-1">
+<variant base="angry"/>
+</token>
+<token canonical="victory" polarity="0.5">
+<variant base="victory"/>
+</token>
+<token canonical="doubtful" polarity="-1">
+<variant base="doubtful"/>
+</token>
+<token canonical="arrogance" polarity="-1">
+<variant base="arrogance"/>
+</token>
+<token canonical="aggression" polarity="-1">
+<variant base="aggression"/>
+</token>
+<token canonical="anxieties" polarity="-1">
+<variant base="anxieties"/>
+</token>
+<token canonical="peaceable" polarity="1">
+<variant base="peaceable"/>
+</token>
+<token canonical="weaknesses" polarity="-1">
+<variant base="weaknesses"/>
+</token>
+<token canonical="tricky" polarity="-1">
+<variant base="tricky"/>
+</token>
+<token canonical="defective" polarity="-1">
+<variant base="defective"/>
+</token>
+<token canonical="comforting" polarity="1">
+<variant base="comforting"/>
+</token>
+<token canonical="brilliant" polarity="1">
+<variant base="brilliant"/>
+</token>
+<token canonical="improved" polarity="0.5">
+<variant base="improved"/>
+</token>
+<token canonical="abandonment" polarity="-0.5">
+<variant base="abandonment"/>
+</token>
+<token canonical="wealthy" polarity="0.5">
+<variant base="wealthy"/>
+</token>
+<token canonical="grieve" polarity="-1">
+<variant base="grieve"/>
+</token>
+<token canonical="tortured" polarity="-0.5">
+<variant base="tortured"/>
+</token>
+<token canonical="enthusiasm" polarity="1">
+<variant base="enthusiasm"/>
+</token>
+<token canonical="drowning" polarity="-0.5">
+<variant base="drowning"/>
+</token>
+<token canonical="grief" polarity="-1">
+<variant base="grief"/>
+</token>
+<token canonical="distraught" polarity="-1">
+<variant base="distraught"/>
+</token>
+<token canonical="disgusting" polarity="-1">
+<variant base="disgusting"/>
+</token>
+<token canonical="repression" polarity="-0.5">
+<variant base="repression"/>
+</token>
+<token canonical="hesitant" polarity="-1">
+<variant base="hesitant"/>
+</token>
+<token canonical="dreadful" polarity="-1">
+<variant base="dreadful"/>
+</token>
+<token canonical="keenness" polarity="1">
+<variant base="keenness"/>
+</token>
+<token canonical="doomsday" polarity="-1">
+<variant base="doomsday"/>
+</token>
+<token canonical="guiltless" polarity="1">
+<variant base="guiltless"/>
+</token>
+<token canonical="encouragement" polarity="1">
+<variant base="encouragement"/>
+</token>
+<token canonical="devastation" polarity="-0.5">
+<variant base="devastation"/>
+</token>
+<token canonical="aversion" polarity="-1">
+<variant base="aversion"/>
+</token>
+<token canonical="devotion" polarity="1">
+<variant base="devotion"/>
+</token>
+<token canonical="weakening" polarity="-1">
+<variant base="weakening"/>
+</token>
+<token canonical="regretful" polarity="-1">
+<variant base="regretful"/>
+</token>
+<token canonical="merry" polarity="1">
+<variant base="merry"/>
+</token>
+<token canonical="cheer" polarity="1">
+<variant base="cheer"/>
+</token>
+<token canonical="degrade" polarity="-1">
+<variant base="degrade"/>
+</token>
+<token canonical="competent" polarity="0.5">
+<variant base="competent"/>
+</token>
+<token canonical="agitated" polarity="-1">
+<variant base="agitated"/>
+</token>
+<token canonical="agitator" polarity="-1">
+<variant base="agitator"/>
+</token>
+<token canonical="accomplishment" polarity="0.5">
+<variant base="accomplishment"/>
+</token>
+<token canonical="viciousness" polarity="-1">
+<variant base="viciousness"/>
+</token>
+<token canonical="useless" polarity="-0.5">
+<variant base="useless"/>
+</token>
+<token canonical="faithfulness" polarity="1">
+<variant base="faithfulness"/>
+</token>
+<token canonical="adversity" polarity="-1">
+<variant base="adversity"/>
+</token>
+<token canonical="relaxed" polarity="0.5">
+<variant base="relaxed"/>
+</token>
+<token canonical="efficiency" polarity="0.5">
+<variant base="efficiency"/>
+</token>
+<token canonical="lose" polarity="-0.5">
+<variant base="lose"/>
+</token>
+<token canonical="satisfaction" polarity="1">
+<variant base="satisfaction"/>
+</token>
+<token canonical="excellent" polarity="1">
+<variant base="excellent"/>
+</token>
+</synonym>
