@@ -68,8 +68,10 @@ public class OpinionExpressionAnnotator extends JCasAnnotator_ImplBase {
 		super.initialize(context);
 
 		String tokenName = Token.class.getCanonicalName();
+		String featureName = "";
 		if (polarDictType.compareTo("lemma") == 0){
 			tokenName = Lemma.class.getCanonicalName();
+			featureName = "value";
 		}
 /*		ExternalResourceDescription dictOF, dictSenticNet, dictLIWC, dictQuantNeg;
 		dictSenticNet = createExternalResourceDescription(
@@ -93,9 +95,10 @@ public class OpinionExpressionAnnotator extends JCasAnnotator_ImplBase {
 				ConceptMapper.PARAM_DATA_BLOCK_FS, "uima.tcas.DocumentAnnotation", // can't use DocumentAnnotation.class.getCanonicalName() because it gets the jcas version instead of tcas
 				ConceptMapper.PARAM_FINDALLMATCHES, false,
 				ConceptMapper.PARAM_ORDERINDEPENDENTLOOKUP, false,
+				"caseMatch", "ignoreall",
 				ConceptMapper.PARAM_SEARCHSTRATEGY, ConceptMapper.PARAMVALUE_CONTIGUOUSMATCH,
-				ConceptMapper.PARAM_TOKENANNOTATION, tokenName, //matching with the lemma
-				ConceptMapper.PARAM_TOKENTEXTFEATURENAME, "value"                    //matching with the lemma
+				ConceptMapper.PARAM_TOKENANNOTATION, tokenName,
+				ConceptMapper.PARAM_TOKENTEXTFEATURENAME, featureName
 				);
 
 		polMap = AnalysisEngineFactory.createEngine(polMapDesc,destinationViewName);
@@ -107,6 +110,7 @@ public class OpinionExpressionAnnotator extends JCasAnnotator_ImplBase {
 		dictQuantNeg = createExternalResourceDescription(
 				CompiledDictionaryResource_impl.class,
 				"file:"+quantNegDictFile); //match with the lemma
+		
 		AnalysisEngineDescription quantNegMapDesc = createEngineDescription(
 				ConceptMapper.class,
 				ConceptMapper.PARAM_DICT_FILE, dictQuantNeg,
@@ -116,6 +120,7 @@ public class OpinionExpressionAnnotator extends JCasAnnotator_ImplBase {
 				ConceptMapper.PARAM_DATA_BLOCK_FS, "uima.tcas.DocumentAnnotation", // can't use DocumentAnnotation.class.getCanonicalName() because it gets the jcas version instead of tcas
 				ConceptMapper.PARAM_FINDALLMATCHES, false,
 				ConceptMapper.PARAM_ORDERINDEPENDENTLOOKUP, false,
+				"caseMatch", "ignoreall",
 				ConceptMapper.PARAM_SEARCHSTRATEGY, ConceptMapper.PARAMVALUE_CONTIGUOUSMATCH,
 				ConceptMapper.PARAM_TOKENANNOTATION, Token.class.getCanonicalName()   //matching with the form
 				);
